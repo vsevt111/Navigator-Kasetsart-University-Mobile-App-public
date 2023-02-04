@@ -1,0 +1,30 @@
+{
+    "Faculty":"คณะมนุษยศาสตร์",
+    "building":[
+
+        {
+            "name":"อาคารคณะมนุษยศาสตร์(อาคาร 1)",
+            "description":"",
+            "coordinate":{"latitude":13.848732,
+            "longitude":100.569357}
+        },
+        {
+            "name":"อาคารคณะมนุษยศาสตร์(อาคาร 2)",
+            "description":"",
+            "coordinate":{"latitude":13.848744,
+            "longitude":100.570211}
+        },
+        {
+            "name":"อาคารคณะมนุษยศาสตร์(อาคาร 3)",
+            "description":"",
+            "coordinate":{"latitude":13.848947,
+            "longitude":100.570023}
+        },
+        {
+            "name":"อาคารจุฬาภรณ์พิศาลศิลป์(อาคาร 4)",
+            "description":"",
+            "coordinate":{"latitude":13.848253,
+            "longitude":100.569682}
+        }
+    ]
+}

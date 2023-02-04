@@ -1,0 +1,17 @@
+{
+    "Faculty":"คณะบริหารธุรกิจ",
+    "building":[
+        {
+            "name":"อาคารคณะบริหารธุรกิจ",
+            "description":"",
+            "coordinate":{"latitude":13.844514,
+            "longitude":100.568972}
+        },
+        {
+            "name":"อาคารการเรียนการสอน (อาคาร 4)",
+            "description":"",
+            "coordinate":{"latitude":13.844072,
+            "longitude":100.568742}
+        }
+    ]
+}

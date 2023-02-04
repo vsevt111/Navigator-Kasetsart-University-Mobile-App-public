@@ -1,0 +1,17 @@
+{
+    "Faculty":"คณะสถาปัตยกรรมศาสตร์",
+    "building":[
+        {
+            "name":"อาคารสถาปัตยกรรมศาสตร์",
+            "description":"",
+            "coordinate":{"latitude":13.853110,
+            "longitude":100.568528}
+        },
+        {
+            "name":"อาคารปฎิบัติการเทคโนโลยีทางอาคารสถาปัตยกรรมศาสตร์",
+            "description":"",
+            "coordinate":{"latitude":13.853724,
+            "longitude":100.568593}
+        }
+    ]
+}

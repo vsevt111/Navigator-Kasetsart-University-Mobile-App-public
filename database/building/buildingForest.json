@@ -1,0 +1,53 @@
+{
+    "Faculty":"คณะวนศาสตร์",
+    "building":[
+        {
+            "name":"ตึกเทคโนโลยีทางไม้เชิงเคมี",
+            "description":"",
+            "coordinate":{"latitude":13.845904,
+            "longitude":100.574189}
+        },
+        {
+            "name":"ตึกโชติรักติประกร",
+            "description":"",
+            "coordinate":{"latitude":13.845916,
+            "longitude":100.574604}
+        },
+        {
+            "name":"อาคารปฎิบัติการวรผลิตภัณฑ์",
+            "description":"",
+            "coordinate":{"latitude":13.845700,
+            "longitude":100.574712}
+        },
+        {
+            "name":"ศูนย์วิจัยป่าไม้",
+            "description":"",
+            "coordinate":{"latitude":13.845947,
+            "longitude":100.573870}
+        },
+        {
+            "name":"วนศาสตร์ 72 ปี",
+            "description":"",
+            "coordinate":{"latitude":13.845933,
+            "longitude":100.573752}
+        },
+        {
+            "name":"ภาควิชาจัดการป่าไม้",
+            "description":"",
+            "coordinate":{"latitude":13.845747,
+            "longitude":100.573693}
+        },
+        {
+            "name":"ตึกวนศาสตร์ 60 ปี",
+            "description":"",
+            "coordinate":{"latitude":13.845231,
+            "longitude":100.573959}
+        },
+        {
+            "name":"สมาคมอุทยานแห่งชาติ",
+            "description":"",
+            "coordinate":{"latitude":13.845250,
+            "longitude":100.574596}
+        }
+    ]
+}

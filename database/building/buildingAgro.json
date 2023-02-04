@@ -1,0 +1,29 @@
+{
+    "Faculty":"คณะอุตสาหกรรมการเกษตร",
+    "building":[
+        {
+            "name":"อาคาร 1 คณะอุตสาหกรรมการเกษตร",
+            "description":"",
+            "coordinate":{"latitude":13.850936,
+            "longitude":100.570857}
+        },
+        {
+            "name":"อาคาร 2 คณะอุตสาหกรรมการเกษตร",
+            "description":"",
+            "coordinate":{"latitude":13.851540,
+            "longitude":100.570873}
+        },
+        {
+            "name":"อาคารกิจกรรม(อาคาร 4)",
+            "description":"",
+            "coordinate":{"latitude":13.851359,
+            "longitude":100.572083}
+        },
+        {
+            "name":"อาคารปฎิบัติการและวิจัย(อาคาร 5)",
+            "description":"",
+            "coordinate":{"latitude":13.851684,
+            "longitude":100.571751}
+        }
+    ]
+}

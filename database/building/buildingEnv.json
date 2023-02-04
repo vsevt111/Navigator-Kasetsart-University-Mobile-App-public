@@ -1,0 +1,11 @@
+{
+    "Faculty":"คณะสิ่งแวดล้อม",
+    "building":[
+        {
+            "name":"อาคารปฎิบัติการ",
+            "description":"",
+            "coordinate":{"latitude":13.855694,
+            "longitude":100.569911}
+        }
+    ]
+}

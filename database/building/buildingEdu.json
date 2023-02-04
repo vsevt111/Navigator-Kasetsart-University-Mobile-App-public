@@ -1,0 +1,23 @@
+{
+    "Faculty":"คณะศึกษาศาสตร์",
+    "building":[
+        {
+            "name":"อาคาร 1 คณะศึกษาศาสตร์",
+            "description":"",
+            "coordinate":{"latitude":13.850973,
+            "longitude":100.569974}
+        },
+        {
+            "name":"ภาควิชาเทคโนโลยีการศึกษา(อาคาร 2)",
+            "description":"",
+            "coordinate":{"latitude":13.851710,
+            "longitude":100.570046}
+        },
+        {
+            "name":"อาคารคณะศึกษาศาสตร์(อาคาร 3)",
+            "description":"",
+            "coordinate":{"latitude":13.851712,
+            "longitude":100.570062}
+        }
+    ]
+}

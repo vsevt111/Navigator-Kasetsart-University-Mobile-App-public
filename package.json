@@ -1,0 +1,59 @@
+{
+  "name": "Project",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "android": "react-native run-android",
+    "ios": "react-native run-ios",
+    "start": "react-native start",
+    "test": "jest",
+    "lint": "eslint ."
+  },
+  "dependencies": {
+    "@react-native-community/masked-view": "^0.1.9",
+    "@react-native-mapbox-gl/maps": "^7.0.8",
+    "@react-navigation/bottom-tabs": "^5.2.6",
+    "@react-navigation/material-bottom-tabs": "^5.1.8",
+    "@react-navigation/native": "^5.1.5",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "geolib": "^3.2.1",
+    "mysqli": "^3.0.11",
+    "native-base": "^2.13.12",
+    "react": "16.9.0",
+    "react-icons": "^3.9.0",
+    "react-native": "0.61.5",
+    "react-native-geolocation-service": "^4.0.0",
+    "react-native-gesture-handler": "^1.6.1",
+    "react-native-ionicons": "^5.0.0-rc",
+    "react-native-mapbox-direction": "^1.0.0",
+    "react-native-maps": "^0.26.1",
+    "react-native-maps-directions": "^1.7.3",
+    "react-native-material-dropdown": "^0.11.1",
+    "react-native-material-ui": "^1.30.1",
+    "react-native-paper": "^3.8.0",
+    "react-native-popup-menu": "^0.15.7",
+    "react-native-reanimated": "^1.8.0",
+    "react-native-safe-area-context": "^0.7.3",
+    "react-native-screens": "^2.4.0",
+    "react-native-search-filter": "^0.1.5",
+    "react-native-vector-icons": "^6.6.0",
+    "react-navigation": "^4.0.10",
+    "react-navigation-drawer": "^2.3.3",
+    "react-navigation-stack": "^1.10.3",
+    "react-navigation-tabs": "^2.6.0"
+  },
+  "devDependencies": {
+    "@babel/core": "7.7.4",
+    "@babel/runtime": "7.7.4",
+    "@react-native-community/eslint-config": "0.0.5",
+    "babel-jest": "24.9.0",
+    "eslint": "6.7.1",
+    "jest": "24.9.0",
+    "metro-react-native-babel-preset": "0.56.3",
+    "react-test-renderer": "16.9.0"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}

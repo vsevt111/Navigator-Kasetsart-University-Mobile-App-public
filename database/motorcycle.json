@@ -1,0 +1,40 @@
+{
+    "point":[
+    {
+        "name":"ประตูวิภาวดี",
+        "coordination":{"latitude":13.852509,"longitude":100.564593}
+    },
+    {
+        "name":"ประตูงามวงศ์วาน 3",
+        "coordination":{"latitude":13.845328,"longitude":100.566957}
+    },
+    {
+        "name":"ประตูงามวงศ์วาน 1",
+        "coordination":{"latitude":13.542581,"longitude":100.571490}
+    },
+    {
+        "name":"ประตูพหลโยธิน 1",
+        "coordination":{"latitude":13.840823,"longitude":100.575762}
+    },
+    {
+        "name":"ประตูพหลโยธิน 2",
+        "coordination":{"latitude":13.843528,"longitude":100.577639}
+    },
+    {
+        "name":"ธนาคารออมสิน",
+        "coordination":{"latitude":13.842084,"longitude":100.576330}
+    },
+    {
+        "name":"ต้นสน",
+        "coordination":{"latitude":13.848702,"longitude":100.572621}
+    },
+    {
+        "name":"กรมการข้าว",
+        "coordination":{"latitude":13.850785,"longitude":100.572599}
+    },
+    {
+        "name":"คณะอุตสาหกรรมเกษตร(แยกมะขาม)",
+        "coordination":{"latitude":13.852657,"longitude":100.572603}
+    }
+]
+}

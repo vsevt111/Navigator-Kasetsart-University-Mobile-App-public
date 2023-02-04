@@ -1,0 +1,60 @@
+{
+        "Faculty":"คณะวิทยาศาสตร์",
+        "building":[
+        {
+            "name":"อาคารทวี ญานสุคนธ์(SCL)",
+            "description":"ไว้เรียนวิชาที่ทำการทดลอง",
+            "coordinate":{"latitude":13.844928,
+            "longitude":100.572280}
+        },
+        {
+            "name":"อาคารวิทยาศาสตร์ 25 ปี",
+            "description":"กำลังสร้าง",
+            "coordinate":{"latitude":13.845101,
+            "longitude":100.571578}
+        },
+        {
+            "name":"ภาควิชาวัสดุศาสตร์",
+            "description":"",
+            "coordinate":{"latitude":13.844730,
+            "longitude":100.571664}
+        },
+        {
+            "name":"อาคารวิทยาศาสตร์ 45 ปี(SC45)",
+            "description":"",
+            "coordinate":{"latitude":13.845850,
+            "longitude":100.571260}
+        },
+        {
+            "name":"โรงเพาะชำ1-2",
+            "description":"",
+            "coordinate":{"latitude":13.844604,
+            "longitude":100.570584}
+        },
+        {
+            "name":"ตึกชีวเคมี",
+            "description":"",
+            "coordinate":{"latitude":13.844758,
+            "longitude":100.570560}
+        },
+        {
+            "name":"อาคารกฤษณา ชุติมา(ภาควิชาเคมี)",
+            "description":"",
+            "coordinate":{"latitude":13.845537,
+            "longitude":100.570717}
+        },
+        {
+            "name":"ตึกฟิสิกส์",
+            "description":"",
+            "coordinate":{"latitude":13.845922,
+            "longitude":100.570855}
+        },
+        {
+            "name":"อาคารภาควิชาสัตววิทยา",
+            "description":"",
+            "coordinate":{"latitude":13.846153,
+            "longitude":100.571320}
+        }
+      
+    ]
+}

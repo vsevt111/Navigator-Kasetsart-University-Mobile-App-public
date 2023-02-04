@@ -1,0 +1,42 @@
+{
+    "Faculty":"คณะสัตวแพทยศาสตร์",
+    "building":[
+        {
+            "name":"อาคารเรียนและปฎิบัติการ",
+            "description":"",
+            "coordinate":{"latitude":13.845043,
+            "longitude":100.577341}
+        },
+        {
+            "name":"อาคารเฉลิมพระเกียรติ 6 รอบ พระชนมพรรษา",
+            "description":"",
+            "coordinate":{"latitude":13.844658,
+            "longitude":100.5773479}
+        },
+        {
+            "name":"อาคารเรียนและปฎิบัติการกายวิภาคศาสตร์",
+            "description":"",
+            "coordinate":{"latitude":13.845057,
+            "longitude":100.576489}
+        },
+        {
+            "name":"อาคารจักรพิชัยรณรงค์สงคราม",
+            "description":"",
+            "coordinate":{"latitude":13.844649,
+            "longitude":100.576726}
+        },
+        {
+            "name":"สระสุวรรณชาติ",
+            "description":"",
+            "coordinate":{"latitude":13.844102,
+            "longitude":100.576814}
+        },
+        {
+            "name":"โรงพยาบาลสัตว์เล็ก",
+            "description":"",
+            "coordinate":{"latitude":13.844368,
+            "longitude":100.577691}
+        }
+
+    ]
+}
